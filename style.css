@@ -1,8 +1,10 @@
 body {
     /* background-color: pink; */
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10wallpaper.com%2Fpt%2Fview%2Ffield_flowers_chamomile-HD_widescreen_wallpaper.html&psig=AOvVaw0qnrSoX9t2Zk6EkiqYSBYl&ust=1726341302148000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMixl_X4wIgDFQAAAAAdAAAAABAK)
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10wallpaper.com%2Fpt%2Fview%2Ffield_flowers_chamomile-HD_widescreen_wallpaper.html&psig=AOvVaw0qnrSoX9t2Zk6EkiqYSBYl&ust=1726341302148000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMixl_X4wIgDFQAAAAAdAAAAABAK);
     /* background-repeat: no-repeat; */
     background-size: auto;
+}
+
 
 .menu{
     background: white;
@@ -10,7 +12,7 @@ body {
 
 .menu ul {
     display: flex;
-    flex-direction:colum;
+    flex-direction:column;
 }
 
 .menu li{
@@ -24,5 +26,5 @@ a{
 
 a:hover{
     text-decoration: underline;
-    color: pink
+    color: pink;
 }
